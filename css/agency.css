@@ -48,6 +48,15 @@ h6 {
 }
 .img-centered {
   margin: 0 auto;
+  
+}
+.img-left {
+  margin: 0 left;
+  
+}
+.img-rigth {
+  margin: 0 rigth;
+  
 }
 .bg-light-gray {
   background-color: #eeeeee;
@@ -749,3 +758,5 @@ body {
 .white {
   color: white;
 }
+
+
