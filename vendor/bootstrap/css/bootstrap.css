@@ -6755,3 +6755,20 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.clients img {
+  max-height: 150px;
+}
+.skills img {
+/*  border: solid red;
+  max-height: 11px;
+}
+.skills {
+  border: solid red;
+}
+.skills {
+  background: red;
+}
+.ee {
+  border: solid red;
+}*/
